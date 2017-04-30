@@ -83,11 +83,6 @@ def main():
         value=result[k]
         news=getDetial(value)
         print(news)
-
-
-
-
-
     pass
 
 if __name__ == '__main__':
